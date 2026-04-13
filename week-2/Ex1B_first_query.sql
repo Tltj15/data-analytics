@@ -1,0 +1,3 @@
+/*
+sakila is a database used to collect information about database design and relationships for use by mySQL
+*/
