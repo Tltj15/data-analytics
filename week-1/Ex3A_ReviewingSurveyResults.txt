@@ -1,8 +1,18 @@
+<<<<<<< HEAD
 1. What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
 
 Login in and checking emails, sometimes instructors send thing that need to be completed before class starts. I will also be checking my syllabus to see if all caught up or need to complete assignments. Checking Brightspace for class updates.
 
 2. Do you have a second monitor connected to your computer? If you don’t have a second monitor, can you think of any friends or family members who you could ask to loan you one
+=======
+1. What do you envision yourself doing 5 minutes before class starts each day, to ensure that you
+are ready to start on time?
+
+Login in and checking emails, sometimes instructors send thing that need to be completed before class starts. I will also be checking my syllabus to see if all caught up or need to complete assignments. Checking Brightspace for class updates.
+
+2. Do you have a second monitor connected to your computer? If you don’t have a second monitor,
+can you think of any friends or family members who you could ask to loan you one
+>>>>>>> ea04bac74dbb5db9a8548745d3b4708e40cab839
 for the next 12 weeks?
 
 I currently don't have a second monitor connected, but I do have one available in my home to use. 
@@ -23,7 +33,11 @@ No specific question as of now, since we just started the boot camp. But I'm sur
 
 6. Is there anything that surprised you about the survey responses?
 
+<<<<<<< HEAD
 Yes, everyone understood the question differently, example how tall are you? Some people wrote their answer in CM over FT. And for free response questions some people wrote a whole story over just answering what the question asked. 
+=======
+Yes, everyone understood the question differntly, example how tall are you? Some people wrote their answer in CM over FT. And for free response questions some people wrote a whole story over just answering what the question asked. 
+>>>>>>> ea04bac74dbb5db9a8548745d3b4708e40cab839
 
 7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
 include in your morning routine, or any questions that you are also curious about?
@@ -33,12 +47,23 @@ No, I practice what I wrote and it has been helping me up to this point.
 8. Pretend you are the instructor. Is there anything you can learn from this survey to help
 in how you approach teaching this class?
 
+<<<<<<< HEAD
 Yes, I have to be specific as possible when asking questions because people can understand it differently. 
+=======
+Yes, I have to be specific as possile when asking questions becauase people can understand it differntly. 
+>>>>>>> ea04bac74dbb5db9a8548745d3b4708e40cab839
 
 9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
 make this survey anonymous? Why or why not? (If you can see both pros and cons,
 you may include both.)
 
+<<<<<<< HEAD
 Yes, some of the questions asked were personal and maybe someone might not want to have their information out for others to know. But it does help give some insight on peers, get to know them a bit better.
+=======
+Yes, some of the questons asked were personal and maybe someone might not want to have their information out for others to know. But it does help give some insight on peers, get to know them a bit better.
+
+
+
+>>>>>>> ea04bac74dbb5db9a8548745d3b4708e40cab839
 
 
